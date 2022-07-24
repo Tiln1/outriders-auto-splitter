@@ -2,7 +2,7 @@ state("OUTRIDERS-Win64-Shipping")
 {
 	int combat : "OUTRIDERS-Win64-Shipping.exe", 0x05F3B7F0, 0xDC8, 0x20, 0x3F8;
 	int triesRemaining : "OUTRIDERS-Win64-Shipping.exe", 0x05F3B7F0, 0xDD0, 0x20, 0x794;
-	int loading : "OUTRIDERS-Win64-Shipping.exe", 0x61F1738
+	int loading : "OUTRIDERS-Win64-Shipping.exe", 0x61F1738;
 }
 
 startup
