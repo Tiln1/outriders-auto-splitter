@@ -9,9 +9,9 @@ startup
 {
 	settings.Add("STS", true, "Start on trial start?");
 	settings.Add("SCS", true, "Start on combat start?");
-    settings.Add("CC", true, "Split on combat change?");
-    settings.Add("CS", false, "Split on combat start?");
-    settings.Add("CE", false, "Split on combat end?");
+	settings.Add("CC", true, "Split on combat change?");
+	settings.Add("CS", false, "Split on combat start?");
+	settings.Add("CE", false, "Split on combat end?");
 }
 
 isLoading
